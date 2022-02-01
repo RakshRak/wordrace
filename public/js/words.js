@@ -1,3 +1,7 @@
 const words = [
-    "Authors often misinterpret apple lettuce folklore rabbi",
+    "apple mango lion",
+    "tiger vision Iron sea world ",
+    "hulk boring dog",
+    "company ice cluster water zen laptop",
+
 ];
